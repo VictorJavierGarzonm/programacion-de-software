@@ -1,6 +1,0 @@
-print("¿cuantos euros quiere convertir en dolares?")
-  numero1=int(input())
-    numero2=float(1.10)
-    euros=numero1*numero2
-    print("el resultado es",euros)
-  
