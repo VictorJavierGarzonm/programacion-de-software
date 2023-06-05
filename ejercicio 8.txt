@@ -1,5 +1,0 @@
-print("modulo de 1234 entre 532")
-  numero1=1234
-    numero2=532
-    P=numero1%numero2
-    print("el resultado es ",P)
